@@ -1,0 +1,16 @@
+h1 {
+    font-family: Trebuchet MS;
+    font-size: min(8vw, 8vh);
+    margin: 0;
+  }
+  body {
+    align-items: center;
+    text-align: center;
+  }
+  canvas {
+    /*  width: min(80vh, 80vw);
+    height: min(40vh, 40vw);*/
+    border: solid;
+    cursor: crosshair;
+  }
+  
